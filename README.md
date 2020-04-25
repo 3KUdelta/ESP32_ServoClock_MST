@@ -21,7 +21,7 @@ repeat on second board for third and forth digit
 PIN Connections on ESP32\
 21 -- SLA\
 22 -- SLC\
- 0 -- OA\
+ 0 -- OA
 
 [![ESP32 Servo Clock](https://github.com/3KUdelta/ESP32_ServoClock_MST/blob/master/Bildschirmfoto%202020-04-05%20um%2010.16.57.png)](https://github.com/3KUdelta/ESP32_ServoClock_MST)
 
