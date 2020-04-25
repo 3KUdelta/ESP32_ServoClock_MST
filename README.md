@@ -1,8 +1,8 @@
 # ESP32 ServoClock
 
 [![ESP32 Servo Clock](https://github.com/3KUdelta/ESP32_ServoClock_MST/blob/master/servo_clock.jpg)](https://github.com/3KUdelta/ESP32_ServoClock_MST)\
-Arduino code for digital clock, 3D printed inspired by www.otvinta.com, https://www.thingiverse.com/thing:3266949.\
-I added some thin back covers and two feet to give a safe stand. These files are here: https://www.thingiverse.com/thing:4313748  
+Arduino code for digital clock, 3D printed inspired by www.otvinta.com, https://www.thingiverse.com/thing:3266949.
+I added some thin back covers to hide the cables and added two feet to give a safe stand. These files are here: https://www.thingiverse.com/thing:4313748  
 
 Author of the code: Jordi Ginjaume, Original Version 20190118 (his code and case can be found here: https://www.thingiverse.com/thing:3375870) 
 
