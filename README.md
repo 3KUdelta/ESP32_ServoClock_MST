@@ -4,10 +4,9 @@
 Arduino code for digital clock, 3D printed inspired by www.otvinta.com, https://www.thingiverse.com/thing:3266949.
 I added some thin back covers to hide the cables and added two feet to give a safe stand. These files are here: https://www.thingiverse.com/thing:4313748  
 
-Author of the code: Jordi Ginjaume, Original Version 20190118 (his code and case can be found here: https://www.thingiverse.com/thing:3375870) 
+Author of the code: Jordi Ginjaume. Excellent code Jordi! It inspired me to do the thing with Arduino. Original Version 20190118 (his code and case can be found here: https://www.thingiverse.com/thing:3375870) 
 
-Modified for use with an ESP32 wihtout RTC, just calling NTP all 12 hours over WiFi
-Marc Stähli, modified April 2020 using the following hardware:
+Modified for use with an ESP32 wihtout RTC, just calling NTP all 12 hours over WiFi using the following hardware:
 
 1 ESP32 programmed with Arduino\
 2 PCA9685 chaining servo drivers, set solder blob on A0 on the second board for digits 3 and 4\
