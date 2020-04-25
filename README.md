@@ -1,10 +1,11 @@
 # ESP32 ServoClock
-Author: Jordi Ginjaume, Original Version 20190118 (https://www.thingiverse.com/thing:3375870) 
-Modified by Marc Staehli, 2020
 
 [![ESP32 Servo Clock](https://github.com/3KUdelta/ESP32_ServoClock_MST/blob/master/servo_clock.jpg)](https://github.com/3KUdelta/ESP32_ServoClock_MST)
 
-Arduino code for digital clock, 3D printed inspired by www.otvinta.com, https://www.thingiverse.com/thing:3266949 using the following hardware:
+Arduino code for digital clock, 3D printed inspired by www.otvinta.com, https://www.thingiverse.com/thing:3266949. 
+Author of the code: Jordi Ginjaume, Original Version 20190118 (https://www.thingiverse.com/thing:3375870) 
+
+Modified by Marc Staehli, 2020 using the following hardware:
 
 1 ESP32 programmed with Arduino
 2 PCA9685 chaining servo drivers, set solder blob on A0 on the second board for digits 3 and 4
