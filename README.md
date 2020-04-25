@@ -1,5 +1,6 @@
 # ESP32 ServoClock
-Author: Jordi Ginjaume, Original Version 20190118 (https://www.thingiverse.com/thing:3375870), Modified by Marc Staehli, 2020
+Author: Jordi Ginjaume, Original Version 20190118 (https://www.thingiverse.com/thing:3375870) 
+Modified by Marc Staehli, 2020
 
 [![ESP32 Servo Clock](https://github.com/3KUdelta/ESP32_ServoClock_MST/blob/master/servo_clock.jpg)](https://github.com/3KUdelta/ESP32_ServoClock_MST)
 
@@ -23,5 +24,8 @@ PIN Connections on ESP32
 22 -- SLC
  0 -- OA
 
+[![ESP32 Servo Clock](https://github.com/3KUdelta/ESP32_ServoClock_MST/blob/master/Bildschirmfoto%202020-04-05%20um%2010.16.57.png)](https://github.com/3KUdelta/ESP32_ServoClock_MST)
+
+[![ESP32 Servo Clock](https://github.com/3KUdelta/ESP32_ServoClock_MST/blob/master/Bildschirmfoto%202020-04-05%20um%2010.18.04.png)](https://github.com/3KUdelta/ESP32_ServoClock_MST)
 
 
