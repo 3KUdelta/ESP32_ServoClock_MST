@@ -59,6 +59,7 @@ void showdigit(byte i, byte digit, int w);
 void go_online();
 void get_NTP_time();
 boolean summertime_EU(int year, byte month, byte day, byte hour, byte tzHours);
+void(* resetFunc) (void) = 0;       // declare reset function @ address 0
 
 //*********************************************************************************
 
