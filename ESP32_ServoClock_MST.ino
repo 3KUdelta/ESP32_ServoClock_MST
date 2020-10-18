@@ -172,6 +172,7 @@ void showdigit(byte i, byte digit, int w) { // parameters: i = digit position (0
 }
 
 void go_online() {
+  WiFi.mode(WIFI_STA);
   WiFi.begin(ssid, pass);
   Serial.print("---> Connecting to WiFi ");
   int i = 0;
